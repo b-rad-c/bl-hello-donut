@@ -45,3 +45,5 @@ To package into a zip for distributing:
 ./dev.sh package
 ```
 
+# Credit
+I created the donut in this application by following Blender Guru's famous donut tutorial available at this link: https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD
