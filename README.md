@@ -1,4 +1,4 @@
-# Blender Hello Donut App
+# Blender App Template - Hello Donut
 
 The famous blender animation tutorial turned into a hello world application for Blender App Templates!
 
